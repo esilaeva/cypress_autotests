@@ -1,6 +1,6 @@
 # Пример автоматизированного тестирования интерфейса веб-приложениий с помощью Cypress 
 <a href="https://www.cypress.io/">
-    <img title="Cypress" src="media/cypress-io.jpg" alt="Cypress">
+    <img title="Cypress" src="media/cypress-io.jpeg" alt="Cypress">
 </a>
 
 
@@ -34,7 +34,7 @@ Cypress позволяет разрабатывать и реализовыва�
 ### Пример тестового сценария
 
 <p>
-    <img title="example test" src="media/example_test.png" alt="example test">
+    <img title="example test" src="media/example-test.png" alt="example test">
 </p>
 
 [Назад к содержанию](#Содержание)
