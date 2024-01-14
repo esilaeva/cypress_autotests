@@ -1,4 +1,4 @@
-# Пример автоматизированного тестирования интерфейса веб-приложениий с помощью Cypress <a href="https://www.cypress.io/"><img width="4%" title="Cypress" src="media/cypress-io.jpeg" alt="Cypress"></a>
+# Пример автоматизированного тестирования интерфейса и функциональности веб-приложениий с помощью Cypress <a href="https://www.cypress.io/"><img width="4%" title="Cypress" src="media/cypress-io.jpeg" alt="Cypress"></a>
 
 > С помощью **Cypress** вы можете легко создавать автотесты для своих современных веб-приложений, визуально отлаживать их и автоматически запускать в сборках непрерывной интеграции
 
