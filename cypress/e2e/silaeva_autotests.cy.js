@@ -20,7 +20,7 @@ describe('Автотесты на форму логина', function () {
 
    it('Негативный кейс авторизации. Верный логин, неверный пароль', function () {
         cy.visit('https://login.qa.studio/');
-        cy.get('#mail').type(mail);
+        cy.get('#mail').type(email);
         cy.get('#pass').type(wrong_password);
         cy.get('#loginButton').click();
         cy.get('#messageHeader').should('be.visible');
